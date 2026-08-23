@@ -49,8 +49,3 @@
 
 ## 📊 GitHub Stats
 
-
-![sewonzoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sewonzoo&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sewonzoo&layout=compact)
-
-</div>
